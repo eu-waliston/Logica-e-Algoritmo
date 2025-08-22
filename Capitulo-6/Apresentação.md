@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo:
 
-Neste capítulo, aprendemos a:
+- Neste capítulo, aprendemos a:
 
 - Utilizar vetores (arrays unidimensionais);
 
@@ -13,4 +13,3 @@ Neste capítulo, aprendemos a:
 - Criar structs para agrupar diferentes tipos de dados;
 
 - Combinar vetores e structs para criar listas de registros.
-
