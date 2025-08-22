@@ -11,11 +11,3 @@
 
 Neste capítulo, aplicamos condicionais e estruturas de repetição em problemas práticos, transformando enunciados em programas.
 O foco é exercitar o raciocínio lógico e entender como algoritmos resolvem problemas reais.
-
-### ✅ Resumo do Capítulo 2:
-
-- Condições compostas.
-
-- Estruturas de repetição aplicadas.
-
-- Problemas clássicos de lógica.

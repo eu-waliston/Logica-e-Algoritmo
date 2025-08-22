@@ -1,6 +1,6 @@
 # 📚 Repositório de Lógica e Algoritmos – Linguagem C
 
-Bem-vindo ao repositório da disciplina de **Lógica e Algoritmos**, com exemplos e exercícios práticos em **C**. Aqui você encontrará todos os conteúdos das unidades, exemplos comentados e material de referência para estudo.
+Bem-vindo ao repositório de **Lógica e Algoritmos**, com exemplos e exercícios práticos em **C**. Aqui você encontrará todos os conteúdos das unidades, exemplos comentados e material de referência para estudo.
 
 ---
 

@@ -1,15 +1,13 @@
 # ⚡ Bem-Vindo ao capitulo 1!
 
-## Aqui você ira aprender os conceitos básicos de:
+## 🎯 Objetivo:
 
-Entrada e saída de dados
+- Entrada e saída de dados
 
-Condicionais
+- Condicionais
 
-Estruturas de repetição
+- Estruturas de repetição
 
-Funções
+- Funções
 
-Vetores
-
-### Eles vão servir como primeiros contatos com programação em C, alinhados com a ideia da disciplina: compreender algoritmos e resolver problemas simples.
+- Vetores
